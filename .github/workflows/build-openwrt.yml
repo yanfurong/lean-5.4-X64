@@ -19,7 +19,6 @@ on:
   #    - main
   #  paths:
   #    - '.config'
-        
   push:
     branches: 
       - master
